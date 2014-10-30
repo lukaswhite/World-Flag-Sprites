@@ -1,4 +1,4 @@
-#Flag Sprites
+#World Flag Sprites
 
 Basically, [these icons](https://www.gosquared.com/resources/flag-icons/) as sprites.
 
@@ -8,9 +8,9 @@ In other words, two different styles - "flat" and "shiny", each of them availabl
 * 24 x 14 px
 * 32 x 32 px
 * 48 x 48 px
-* 64 x 64px
+* 64 x 64 px
 
-In each folder, you'll find some CSS (you may need to change the URL to the image), the sprite itself and an HTMl page which displays them.
+In each folder, you'll find some CSS (you may need to change the URL to the image), the sprite itself and an HTML page as a quick & dirty demo.
 
 The flag sprites have all been optimised using [OptiPNG](http://optipng.sourceforge.net/).
 
