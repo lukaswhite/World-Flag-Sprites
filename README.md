@@ -1,6 +1,6 @@
 #World Flag Sprites
 
-Basically, [these icons](https://www.gosquared.com/resources/flag-icons/) as sprites.
+Basically, [the GoSquared flag icon set](https://www.gosquared.com/resources/flag-icons/) as sprites.
 
 In other words, two different styles - "flat" and "shiny", each of them available in the following sizes:
 
