@@ -23,7 +23,7 @@ Changelog:
  * This, unnamed version
      - Move sprites to the folder /sprites/
      - Add the folder "single_flags" to the folders "flat" and "shiny" and copy there a single flags [from this archive](https://downloads.gosquared.com/pixels/flags.zip)
-     - Add prefix "renamed" to the folders, where flags renamed and leave this files. There is country codes in the name of file.
+     - Add prefix "\_renamed" to the folders, where flags renamed and leave this files. There is country codes in the name of file.
      - Move single png pictures to /png/ folders
-     - Add description for single icns folder. Now this have name "/icns(Apple,Mac)/"
+     - Add description for single icns folder. Now this have name "/icns-Apple-Mac/"
      - Put this all folders in folders "flat" and "shiny", near "/sprites/" folder to give more choices for users.
